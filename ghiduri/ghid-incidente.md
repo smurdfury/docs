@@ -1,6 +1,7 @@
 ---
 label: Ghid Incidente
 order: v1.5
+icon: ':ledger:'
 ---
 
 <p align="center">
@@ -37,3 +38,25 @@ Obligatoriu oferiți detalii precum:
 În data de [data respectivă] în jurul orei [ora respectivă], a fost solicitat pe stație necesitatea unui medic la spital pentru a se efectua un control unui pacient vătămat. În momentul în care a ajuns la spital asistentul [nume] a oferit informațiile aflate pe teren legat de [pacient] cum că acesta a suferit [completați voi], a fost stabilit la locul incindentului și adus imediat. Am mers alături de asistent în sala de RMN / Radiografie unde s-a stabilit diagnosticul acestuia. A fost transportat în sala de operație și conectat la aparate, iar după ce și-a oferit acordul pentru anestezie acesta a fost operat pentru [completați voi]. În final acesta a refuzat internarea pentru recuperare susținând că [completați voi].
 :::
 
+### Cum creezi un incident ->
+<p align="center">
+    <img src="/docs/ghiduri/img/creeazaraport.png" style="border-radius: 20px;" alt="Departamentul Medical">
+</p>
+
+***Incident name***: Aici veți scrie topicul incidentului / ce a pătit victima. ex: Nehidratare, lipsă calciu, pierdere cunostință, fractură picior, etc.
+***Incident description***: Aici veți scrie raportul propriu-zis, un exemplu este mai sus.
+***Pacienți***: Aici veți căuta pacientul după un nume sau după CNP și îl selectați pe cel dorit.
+***Medici***: Aici veți căuta numele/cnp-ul tău, iar dacă este cazul și celorlalti medici care au participat.
+***Facturi***: Aici nu umblați.
+***Imaginile:*** Sunt opționale și se fac la locul incidentului.
+
+### Alte exemple:
+<p align="center">
+    <img src="/docs/ghiduri/img/ex1.png" style="border-radius: 20px;" alt="Departamentul Medical">
+</p>
+<p align="center">
+    <img src="/docs/ghiduri/img/ex2.png" style="border-radius: 20px;" alt="Departamentul Medical">
+</p>
+<p align="center">
+    <img src="/docs/ghiduri/img/ex3.png" style="border-radius: 20px;" alt="Departamentul Medical">
+</p>

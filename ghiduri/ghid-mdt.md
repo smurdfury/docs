@@ -1,6 +1,7 @@
 ---
 label: Ghid MDT
 order: v1.4
+icon: ':computer'
 ---
 
 <p align="center">
