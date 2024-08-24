@@ -79,7 +79,7 @@ Inspectoratul General pentru Situații de Urgență (I.G.S.U.), de la gradul de 
 !!!
 **Ambulanță | Asistent Debutant+ | SAJ**
 !!!
-!!!
+!!!warning
 Singura autospecială de unde poți scoate targa.
 !!!
 
@@ -89,7 +89,7 @@ Singura autospecială de unde poți scoate targa.
 !!!
 **Bronco | Asistent Debutant+ | SAJ OFF-ROAD**
 !!!
-!!!
+!!!danger
 Poate fi folosită doar pe Sandy / Paleto
 !!!
 
@@ -99,7 +99,7 @@ Poate fi folosită doar pe Sandy / Paleto
 !!!
 **Logan | Asistent Generalist+ | SAJ**
 !!!
-!!!
+!!!danger
 Poate fi condusă și de debutanți după ora 19:00 pentru apeluri și bkuri, pe timpul zilei doar cu aprobare (pe distanțe foarte mari).
 !!!
 
@@ -130,7 +130,7 @@ Poate fi condusă și de debutanți după ora 19:00 pentru apeluri și bkuri, pe
 !!!
 **Moto | Asistent Generalist+ | SAJ & SMURD**
 !!!
-!!!
+!!!danger
 Ai nevoie de certificatul MOTO !
 !!!
 
@@ -140,7 +140,7 @@ Ai nevoie de certificatul MOTO !
 !!!
 **Elicopter | Asistent Generalist+ | ALL DEPART.**
 !!!
-!!!
+!!!danger
 Ai nevoie de certificatul PILOT !
 !!!
 
@@ -150,7 +150,7 @@ Ai nevoie de certificatul PILOT !
 !!!
 **Scania | Asistent Generalist+ | I.S.U.**
 !!!
-!!!
+!!!danger
 Strict pentru incendii și 3-20uri!
 Ai nevoie de certificatul I.S.U. !
 !!!
@@ -161,7 +161,7 @@ Ai nevoie de certificatul I.S.U. !
 !!!
 **Skoda | Asistent Generalist+ | ISU - SMURD**
 !!!
-!!!
+!!!danger
 Orice intervenție de teren & avize I.S.U.
 Ai nevoie de certificatul I.S.U. !
 !!!
@@ -172,6 +172,6 @@ Ai nevoie de certificatul I.S.U. !
 !!!
 **Descarcerare | Asistent Generalist+ | I.S.U.**
 !!!
-!!!
+!!!danger
 Ai nevoie de certificatul I.S.U. !
 !!!
