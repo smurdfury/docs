@@ -5,7 +5,7 @@ branding:
   title: SMURD
   label: v1.0
   logo: /imagini/logosmurd.png
-  favicon: /imagini/logosmurd.png
+favicon: /imagini/logosmurd.png
 editor: 
   enabled: false
 footer:
