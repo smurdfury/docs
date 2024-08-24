@@ -6,7 +6,7 @@ order: v1.2
 #
 
 <p align="center">
-    <img src="/imagini/smurd2.png" alt="Departamentul Medical">
+    <img src="/docs/imagini/smurd2.png" alt="Departamentul Medical">
 </p>
 
 Ne bucurăm că te-ai alăturat echipei! Acest site e aici ca să te ajute să te acomodezi cât mai ușor în departamentul nostru. Aici vei găsi ghiduri și informații utile despre proceduri, politica noastră și resursele disponibile.
