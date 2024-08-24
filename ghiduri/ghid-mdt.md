@@ -44,3 +44,57 @@ La un apel se cere CNP-ul victimei în urma reanimării la viață. Incidentele 
 <p align="center">
     <img src="/docs/ghiduri/img/facturi.png" style="border-radius: 20px;" alt="Departamentul Medical">
 </p>
+
+### 4. Coduri
+<p align="center">
+    <img src="/docs/ghiduri/img/coduri.png" style="border-radius: 20px;" alt="Departamentul Medical">
+</p>
+
+!!!danger
+Codurile sunt utilizate pentru a comunica pe stație cât mai rapid și cât mai eficient posibil, pentru a minimiza riscul ca o victimă să moară.
+!!!
+
+### 5. Doctori
+<p align="center">
+    <img src="/docs/ghiduri/img/doctori.png" style="border-radius: 20px;" alt="Departamentul Medical">
+</p>
+
+!!!
+Aici se află toți medicii din departamentul SMURD, atât On-Duty cât și Off-Duty. Când în fața numelui medicului este iconița verde, medicul este pe truă, iar dacă este roșu, nu este pe tură. Sub numele medicului se află gradul lui șicertificatele deținute (excluzând MDT și ALS), dar și locația lui (strada unde se află).
+!!!
+
+### 6. Apeluri
+<p align="center">
+    <img src="/docs/ghiduri/img/apeluri.png" style="border-radius: 20px;" alt="Departamentul Medical">
+</p>
+
+!!! Odată ce o persoană face un apel prin intermediul serviciului 112 vei primi notificare în partea de dreapta jos a ecranului.
+<p align="center">
+    <img src="/docs/ghiduri/img/apel.png" style="border-radius: 20px;" alt="Departamentul Medical">
+</p>
+!!!
+!!!warning
+Pentru a prelua apelul trebuie să intri pe tabletă la secțiunea ”Apeluri” și să apeși pe iconița de locație, iar apoi pe ”Confirmă”.
+!!!
+
+<p align="center">
+    <img src="/docs/ghiduri/img/confirmaapel.png" style="border-radius: 20px;" alt="Departamentul Medical">
+</p>
+
+### 7. Evidența Persoanelor
+<p align="center">
+    <img src="/docs/ghiduri/img/evidenta.png" style="border-radius: 20px;" alt="Departamentul Medical">
+</p>
+
+!!!
+În această secțiune a tabletei, poți căuta diferite persoane în funcție de NUME, CNP sau Număr de Telefon, pentru a le vedea diferitele incidente făcute de doctori.
+!!!
+
+### 8. Config
+<p align="center">
+    <img src="/docs/ghiduri/img/config.png" style="border-radius: 20px;" alt="Departamentul Medical">
+</p>
+
+!!!
+Din această secțiune a tabletei poți seta culorile textului, a fundalului și a diferiților factori.
+!!!
