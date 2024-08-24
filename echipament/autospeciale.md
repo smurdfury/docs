@@ -75,5 +75,5 @@ Inspectoratul General pentru Situații de Urgență (I.G.S.U.), de la gradul de 
 ### Detalii autospeciale
 Autospecială   | Descriere
 ---    | ---
-![](/echipament/img/ambulanta.png)  | Ambulanță
-![](/echipament/img/logan.png) | Logan
+<img src="/imagini/ambulanta.png" alt="ambulanta" width="308" height="164"/>  | Ambulanță
+<img src="/imagini/logan.png" alt="ambulanta" width="308" height="164"/> | Logan
