@@ -1,6 +1,7 @@
 ---
 label: Truse & Bandaje
 order: v0.2
+icon: ":pill:"
 ---
 <p align="center">
     <img src="/docs/imagini/echipamentzona.png" style="border-radius: 20px;" alt="Departamentul Medical">

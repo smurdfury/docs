@@ -1,7 +1,7 @@
 ---
 label: Ghid Targă
 order: v1.2
-icon: ':bed:'
+icon: ':medical_symbol:'
 ---
 
 <p align="center">
