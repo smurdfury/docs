@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
-    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.5.0.777854020875">
+    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.5.0.777854462112">
 
     <!-- See retype.com -->
     <meta name="generator" content="Retype 3.5.0">
@@ -31,11 +31,11 @@
     <script data-cfasync="false">(function () { var el = document.documentElement, m = localStorage.getItem("doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
 
     <link href="../../imagini/logosmurd.png" rel="icon">
-    <link href="../../resources/css/retype.css?v=3.5.0.777854020875" rel="stylesheet">
+    <link href="../../resources/css/retype.css?v=3.5.0.777854462112" rel="stylesheet">
 
-    <script data-cfasync="false" src="../../resources/js/config.js?v=3.5.0.777854020875" data-turbo-eval="false" defer></script>
+    <script data-cfasync="false" src="../../resources/js/config.js?v=3.5.0.777854462112" data-turbo-eval="false" defer></script>
     <script data-cfasync="false" src="../../resources/js/retype.js?v=3.5.0" data-turbo-eval="false" defer></script>
-    <script id="lunr-js" data-cfasync="false" src="../../resources/js/lunr.js?v=3.5.0.777854020875" data-turbo-eval="false" defer></script>
+    <script id="lunr-js" data-cfasync="false" src="../../resources/js/lunr.js?v=3.5.0.777854462112" data-turbo-eval="false" defer></script>
 </head>
 <body>
     <div id="docs-app" class="relative text-base antialiased text-gray-700 bg-white font-body dark:bg-dark-850 dark:text-dark-300">
@@ -301,26 +301,61 @@
         <span>Detalii autospeciale</span>
     </h3>
 </doc-anchor-target>
-<div class="table-wrapper scrollbar overflow-hidden">
-<table class="comfortable">
-<thead>
-<tr>
-<th>Autospecială</th>
-<th>Descriere</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><img src="/docs/echipament/img/ambulanta.png" alt="ambulanta" width="308" height="164"/></td>
-<td>Ambulanță</td>
-</tr>
-<tr>
-<td><img src="/docs/echipament/img/logan.png" alt="ambulanta" width="308" height="164"/></td>
-<td>Logan</td>
-</tr>
-</tbody>
-</table>
-</div>
+<doc-tabs>
+<doc-tab v-cloak id="ambulanță">
+<template #title>Ambulanță</template>
+<img src="/docs/echipament/img/ambulanta.png" alt="ambulanta" width="308" height="164"/>
+Ambulanță | Asistent Debutant+ | SAJ
+Singura autospecială de unde poți scoate targa.
++++ Bronco
+<img src="/docs/echipament/img/bronco.png" alt="ambulanta" width="308" height="164"/>
+Bronco | Asistent Debutant+ | SAJ OFF-ROAD
+Poate fi folosită doar pe Sandy / Paleto
++++ Logan
+<img src="/docs/echipament/img/logan.png" alt="ambulanta" width="308" height="164"/>
+Logan | Asistent Generalist+ | SAJ
+Poate fi condusă și de debutanți după ora 19:00 pentru apeluri și bkuri, pe timpul zilei doar cu aprobare (pe distanțe foarte mari).
++++ Hyundai
+<img src="/docs/echipament/img/hyundai.png" alt="ambulanta" width="308" height="164"/>
+Hyundai | Medic Rezident+ | SAJ
++++ Volvo
+<img src="/docs/echipament/img/volvo.png" alt="ambulanta" width="308" height="164"/>
+Volvo XC90 | Sef de Tură+ | SAJ
++++ BMW
+<img src="/docs/echipament/img/bmw.png" alt="ambulanta" width="308" height="164"/>
+BMW Seria 3 | Manager Spital+ | ALL DEPART.
+</doc-tab>
+</doc-tabs>
+<doc-tabs>
+<doc-tab v-cloak id="moto">
+<template #title>Moto</template>
+<img src="/docs/echipament/img/moto.png" alt="ambulanta" width="308" height="164"/>
+Moto | Asistent Generalist+ | SAJ & SMURD
+Ai nevoie de certificatul MOTO !
++++ Elicopter
+<img src="/docs/echipament/img/heli.png" alt="ambulanta" width="308" height="164"/>
+Elicopter | Asistent Generalist+ | ALL DEPART.
+Ai nevoie de certificatul PILOT !
+</doc-tab>
+</doc-tabs>
+<doc-tabs>
+<doc-tab v-cloak id="scania">
+<template #title>Scania</template>
+<img src="/docs/echipament/img/scania.png" alt="ambulanta" width="308" height="164"/>
+Scania | Asistent Generalist+ | I.S.U.
+Strict pentru incendii și 3-20uri!
+Ai nevoie de certificatul I.S.U. !
++++ Skoda
+<img src="/docs/echipament/img/skoda.png" alt="ambulanta" width="308" height="164"/>
+Skoda | Asistent Generalist+ | ISU - SMURD
+Orice intervenție de teren & avize I.S.U.
+Ai nevoie de certificatul I.S.U. !
++++ Mașină de descarcerare
+<img src="/docs/echipament/img/descarcerare.png" alt="ambulanta" width="308" height="164"/>
+Descarcerare | Asistent Generalist+ | I.S.U.
+Ai nevoie de certificatul I.S.U. !
+</doc-tab>
+</doc-tabs>
 
                                 
                                 <!-- Required only on API pages -->
