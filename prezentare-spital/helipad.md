@@ -4,7 +4,7 @@ order: v1.2
 #
 ### 4. Helipad
 <p align="center">
-  <img src="/imagini/helipad.png" style="border-radius: 20px;" width="800" height="450" />
+  <img src="/docs/imagini/helipad.png" style="border-radius: 20px;" width="800" height="450" />
 </p>
 
 !!!primary HELIPAD

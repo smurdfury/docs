@@ -4,7 +4,7 @@ order: v1.2
 ---
 
 <p align="center">
-    <img src="/imagini/introducere.png" style="border-radius: 20px;" alt="Departamentul Medical">
+    <img src="/docs/imagini/introducere.png" style="border-radius: 20px;" alt="Departamentul Medical">
 </p>
 
 # Departamentul Medical

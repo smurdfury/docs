@@ -5,7 +5,7 @@ order: v1.3
 ### 3. Hol Terțiar
 ### 3.1. Sală RMN / CT
 <p align="center">
-  <img src="/imagini/rmn.png" style="border-radius: 20px;" width="800" height="450" />
+  <img src="/docs/imagini/rmn.png" style="border-radius: 20px;" width="800" height="450" />
 </p>
 
 ::: danger RMN
@@ -17,7 +17,7 @@ Scanare în care se printează rezultatele 3D în 2 minute, deși provoacă 50 d
 
 ### 3.2. Sală X-RAY
 <p align="center">
-  <img src="/imagini/xray.png" style="border-radius: 20px;" width="800" height="450" />
+  <img src="/docs/imagini/xray.png" style="border-radius: 20px;" width="800" height="450" />
 </p>
 
 ::: danger XRAY
@@ -26,7 +26,7 @@ Radiografie cu raze X, care provoacă doar 2-3 radiații și poți observa doar 
 
 ### 3.3. Sală de diagnostice
 <p align="center">
-  <img src="/imagini/diagnostice.png" style="border-radius: 20px;" width="800" height="450" />
+  <img src="/docs/imagini/diagnostice.png" style="border-radius: 20px;" width="800" height="450" />
 </p>
 
 !!!primary ROLEPLAY

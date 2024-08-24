@@ -3,7 +3,7 @@ label: Regulament intern
 ---
 
 <p align="center">
-    <img src="/imagini/smurd.png" style="border-radius: 20px;" alt="Departamentul Medical">
+    <img src="/docs/imagini/smurd.png" style="border-radius: 20px;" alt="Departamentul Medical">
 </p>
 
 # Regulamentul Intern

@@ -4,7 +4,7 @@ order: v1.1
 #
 ### 5. Garaj
 <p align="center">
-  <img src="/imagini/garaj.png" style="border-radius: 20px;" width="800" height="450" />
+  <img src="/docs/imagini/garaj.png" style="border-radius: 20px;" width="800" height="450" />
 </p>
 
 !!! GARAJ

@@ -4,12 +4,12 @@ order: v1.4
 #
 ### 2. Hol Secundar
 <p align="center">
-  <img src="/imagini/holsecundar.png" style="border-radius: 20px;" width="800" height="450" />
+  <img src="/docs/imagini/holsecundar.png" style="border-radius: 20px;" width="800" height="450" />
 </p>
 
 ### 2.1. Laborator
 <p align="center">
-  <img src="/imagini/laborator.png" style="border-radius: 20px;" width="800" height="450" />
+  <img src="/docs/imagini/laborator.png" style="border-radius: 20px;" width="800" height="450" />
 </p>
 
 ::: tip ROLEPLAY
@@ -18,15 +18,15 @@ order: v1.4
 
 ### 2.2. Săli de operație
 <p align="center">
-  <img src="/imagini/salaoperatie1.png" style="border-radius: 20px;" width="800" height="450" />
+  <img src="/docs/imagini/salaoperatie1.png" style="border-radius: 20px;" width="800" height="450" />
 </p>
 
 <p align="center">
-  <img src="/imagini/salaoperatie2.png" style="border-radius: 20px;" width="800" height="450" />
+  <img src="/docs/imagini/salaoperatie2.png" style="border-radius: 20px;" width="800" height="450" />
 </p>
 
 <p align="center">
-  <img src="/imagini/salaoperatie3.png" style="border-radius: 20px;" width="800" height="450" />
+  <img src="/docs/imagini/salaoperatie3.png" style="border-radius: 20px;" width="800" height="450" />
 </p>
 
 ::: tip ROLEPLAY
@@ -35,7 +35,7 @@ order: v1.4
 
 ### 2.3. Sală de internare
 <p align="center">
-  <img src="/imagini/salainternare.png" style="border-radius: 20px;" width="800" height="450" />
+  <img src="/docs/imagini/salainternare.png" style="border-radius: 20px;" width="800" height="450" />
 </p>
 
 ::: tip ROLEPLAY
