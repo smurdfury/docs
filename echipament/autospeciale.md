@@ -74,88 +74,104 @@ Inspectoratul General pentru Situații de Urgență (I.G.S.U.), de la gradul de 
 
 ## Detalii autospeciale
 ### Ambulanță
-<img src="/docs/echipament/img/ambulanta.png" alt="ambulanta" width="308" height="164"/>
+<img src="/docs/echipament/img/ambulanta.png" alt="ambulanta" width="308" height="164"/> </br>
 
 !!!
 **Ambulanță | Asistent Debutant+ | SAJ**
+!!!
+!!!
 Singura autospecială de unde poți scoate targa.
 !!!
 
 ### Bronco
-<img src="/docs/echipament/img/bronco.png" alt="ambulanta" width="308" height="164"/>
+<img src="/docs/echipament/img/bronco.png" alt="ambulanta" width="308" height="164"/> </br>
 
 !!!
 **Bronco | Asistent Debutant+ | SAJ OFF-ROAD**
+!!!
+!!!
 Poate fi folosită doar pe Sandy / Paleto
 !!!
 
 ### Logan
-<img src="/docs/echipament/img/logan.png" alt="ambulanta" width="308" height="164"/>
+<img src="/docs/echipament/img/logan.png" alt="ambulanta" width="308" height="164"/> </br>
 
 !!!
 **Logan | Asistent Generalist+ | SAJ**
+!!!
+!!!
 Poate fi condusă și de debutanți după ora 19:00 pentru apeluri și bkuri, pe timpul zilei doar cu aprobare (pe distanțe foarte mari).
 !!!
 
 ### Hyundai
-<img src="/docs/echipament/img/hyundai.png" alt="ambulanta" width="308" height="164"/>
+<img src="/docs/echipament/img/hyundai.png" alt="ambulanta" width="308" height="164"/> </br>
 
 !!!
 **Hyundai | Medic Rezident+ | SAJ**
 !!!
 
 ### Volvo
-<img src="/docs/echipament/img/volvo.png" alt="ambulanta" width="308" height="164"/>
+<img src="/docs/echipament/img/volvo.png" alt="ambulanta" width="308" height="164"/> </br>
 
 !!!
 **Volvo XC90 | Sef de Tură+ | SAJ**
 !!!
 
 ### BMW
-<img src="/docs/echipament/img/bmw.png" alt="ambulanta" width="308" height="164"/>
+<img src="/docs/echipament/img/bmw.png" alt="ambulanta" width="308" height="164"/> </br>
 
 !!!
 **BMW Seria 3 | Manager Spital+ | ALL DEPART.**
 !!!
 
 ### Moto
-<img src="/docs/echipament/img/moto.png" alt="ambulanta" width="308" height="164"/>
+<img src="/docs/echipament/img/moto.png" alt="ambulanta" width="308" height="164"/> </br>
 
 !!!
 **Moto | Asistent Generalist+ | SAJ & SMURD**
+!!!
+!!!
 Ai nevoie de certificatul MOTO !
 !!!
 
 ### Elicopter
-<img src="/docs/echipament/img/heli.png" alt="ambulanta" width="308" height="164"/>
+<img src="/docs/echipament/img/heli.png" alt="ambulanta" width="308" height="164"/> </br>
 
 !!!
 **Elicopter | Asistent Generalist+ | ALL DEPART.**
+!!!
+!!!
 Ai nevoie de certificatul PILOT !
 !!!
 
 ### Scania
-<img src="/docs/echipament/img/scania.png" alt="ambulanta" width="308" height="164"/>
+<img src="/docs/echipament/img/scania.png" alt="ambulanta" width="308" height="164"/> </br>
 
 !!!
 **Scania | Asistent Generalist+ | I.S.U.**
+!!!
+!!!
 Strict pentru incendii și 3-20uri!
 Ai nevoie de certificatul I.S.U. !
 !!!
 
 ### Skoda
-<img src="/docs/echipament/img/skoda.png" alt="ambulanta" width="308" height="164"/>
+<img src="/docs/echipament/img/skoda.png" alt="ambulanta" width="308" height="164"/> </br>
 
 !!!
 **Skoda | Asistent Generalist+ | ISU - SMURD**
+!!!
+!!!
 Orice intervenție de teren & avize I.S.U.
 Ai nevoie de certificatul I.S.U. !
 !!!
 
 ### Mașină de descarcerare
-<img src="/docs/echipament/img/descarcerare.png" alt="ambulanta" width="308" height="164"/>
+<img src="/docs/echipament/img/descarcerare.png" alt="ambulanta" width="308" height="164"/> </br>
 
 !!!
 **Descarcerare | Asistent Generalist+ | I.S.U.**
+!!!
+!!!
 Ai nevoie de certificatul I.S.U. !
 !!!
