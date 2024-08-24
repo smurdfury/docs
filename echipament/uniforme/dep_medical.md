@@ -14,5 +14,17 @@ order: v0.3
 ### Băieți
 
 ==- Mânecă scurtă
-![](/docs/imagini/uniforme/medical/asistent/scurt_baieti.png)
+- Jachete: 615 (Textura: 2)
+- Sub-Haină: 153 (Textura: 0)
+- Mâini/Mănuși: 85 (Textura: 1)
+- Pantaloni: 278 (Textura: 0)
+- Încălțăminte: 25 (Textura: 0)
+<p align="center">
+    <img src="/docs/imagini/uniforme/medical/asistent/scurt_baieti.png" style="border-radius: 20px;" width="303" height="385" alt="Departamentul Medical">
+</p>
+===
+==- Mânecă lungă
+<p align="center">
+    <img src="/docs/imagini/uniforme/medical/asistent/lung_baieti.png" style="border-radius: 20px;" width="303" height="385" alt="Departamentul Medical">
+</p>
 ===
