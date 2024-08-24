@@ -1,0 +1,12 @@
+input: .
+output: .retype
+url: # Add your website address here
+branding:
+  title: SMURD
+  label: v1.0
+  logo: /imagini/logosmurd.png
+  favicon: /imagini/logosmurd.png
+editor: 
+  enabled: false
+footer:
+  copyright: "&copy; {{ year }}. Made with ❤︎ by Ștefan."
