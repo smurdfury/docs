@@ -22,3 +22,6 @@ jobs:
       - uses: retypeapp/action-github-pages@latest
         with:
           update-branch: true
+      
+      - name: Build with Retype
+        run: retype start --password zotanebunulcuvacile
