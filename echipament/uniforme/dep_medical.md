@@ -8,6 +8,9 @@ order: v0.3
 </p>
 
 # Deparatmentul Medical
+!!!
+Pe această pagină se află uniformele specifice gradului deținut.
+!!!
 
 ## Asistent Debutant
 
@@ -252,7 +255,7 @@ order: v0.3
 - Pantaloni: 24 (Textura: 5)
 - Încălțăminte: 106 (Textura: 2)
 <p align="center">
-    <img src="/docs/imagini/uniforme/medical/m_speciliast/teren_baieti.png" style="border-radius: 20px;" width="303" height="385" alt="Departamentul Medical">
+    <img src="/docs/imagini/uniforme/medical/m_specialiast/teren_baieti.png" style="border-radius: 20px;" width="303" height="385" alt="Departamentul Medical">
 </p>
 
 ==- Spital
@@ -274,7 +277,7 @@ order: v0.3
 - Pantaloni: 133 (Textura: 3)
 - Incaltaminte: 103 (Textura: 0)
 <p align="center">
-    <img src="/docs/imagini/uniforme/medical/m_specialiast/teren_fete.png" style="border-radius: 20px;" width="303" height="385" alt="Departamentul Medical">
+    <img src="/docs/imagini/uniforme/medical/m_specialist/teren_fete.png" style="border-radius: 20px;" width="303" height="385" alt="Departamentul Medical">
 </p>
 
 ==- Spital
