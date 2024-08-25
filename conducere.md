@@ -1,5 +1,5 @@
 ---
 label: Conducere
-visibility: private
+visibility: protected
 order: v0.9
 ---
