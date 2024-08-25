@@ -31,6 +31,7 @@ Inspectoratul General pentru Situații de Urgență (I.G.S.U.), de la gradul de 
 5. Hyundai
 6. Elicopter *(CERTIFICAT PILOT)*
 7. Motocicletă *(CERTIFICAT MOTO)*
+8. Ford Ranger
 +++
 
 +++ [!badge variant="light" text="Medic Rezident"]
@@ -41,7 +42,8 @@ Inspectoratul General pentru Situații de Urgență (I.G.S.U.), de la gradul de 
 5. Hyundai
 6. Elicopter *(CERTIFICAT PILOT)*
 7. Motocicletă *(CERTIFICAT MOTO)*
-8. Volvo
+8. Ford Ranger
+9. Volvo
 +++ [!badge variant="light" text="Medic Primar"]
 1. Ambulanță
 2. Ford Bronco (OFF-ROAD Sandy / Paleto)
@@ -50,7 +52,8 @@ Inspectoratul General pentru Situații de Urgență (I.G.S.U.), de la gradul de 
 5. Hyundai
 6. Elicopter *(CERTIFICAT PILOT)*
 7. Motocicletă *(CERTIFICAT MOTO)*
-8. Volvo
+8. Ford Ranger
+9. Volvo
 +++ [!badge variant="light" text="Medic Specialist"]
 1. Ambulanță
 2. Ford Bronco (OFF-ROAD Sandy / Paleto)
@@ -59,7 +62,8 @@ Inspectoratul General pentru Situații de Urgență (I.G.S.U.), de la gradul de 
 5. Hyundai
 6. Elicopter *(CERTIFICAT PILOT)*
 7. Motocicletă *(CERTIFICAT MOTO)*
-8. Volvo
+8. Ford Ranger
+9. Volvo
 +++
 
 +++ [!badge variant="ghost" text="Șef de tură"]
@@ -70,19 +74,21 @@ Inspectoratul General pentru Situații de Urgență (I.G.S.U.), de la gradul de 
 5. Hyundai
 6. Elicopter *(CERTIFICAT PILOT)*
 7. Motocicletă *(CERTIFICAT MOTO)*
-8. Volvo
-9. Kia Sorento
+8. Ford Ranger
+9. Volvo
+10. Kia Sorento
 +++ [!badge variant="ghost" text="Manager / Director"]
 1. Ambulanță
 2. Ford Bronco (OFF-ROAD Sandy / Paleto)
 3. Logan
 4. Duster
 5. Hyundai
-6. Elicopter *(CERTIFICAT PILOT)*
-7. Motocicletă *(CERTIFICAT MOTO)*
-8. Volvo
-9. Kia Sorento
-10. BMW Seria 3
+6. Elicopter
+7. Motocicletă
+8. Ford Ranger
+9. Volvo
+10. Kia Sorento
+11. BMW Seria 3
 +++
 
 ## Detalii autospeciale
