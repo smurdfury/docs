@@ -2,6 +2,8 @@
 icon: ":wave:"
 label: Introducere
 order: v1.2
+meta:
+    title: Smurd Fury
 ---
 #
 
