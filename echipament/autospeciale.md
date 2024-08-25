@@ -20,56 +20,69 @@ Inspectoratul General pentru Situații de Urgență (I.G.S.U.), de la gradul de 
 1. Ambulanță
 2. Ford Bronco *(OFF-ROAD Sandy / Paleto)*
 3. Logan
-4. Elicopter *(CERTIFICAT PILOT)*
-5. Motocicletă *(CERTIFICAT MOTO)*
+4. Duster
+5. Elicopter *(CERTIFICAT PILOT)*
+6. Motocicletă *(CERTIFICAT MOTO)*
 +++ [!badge variant="warning" text="Asistent Șef"]
 1. Ambulanță
 2. Ford Bronco (OFF-ROAD Sandy / Paleto)
 3. Logan
-4. Elicopter *(CERTIFICAT PILOT)*
-5. Motocicletă *(CERTIFICAT MOTO)*
+4. Duster
+5. Hyundai
+6. Elicopter *(CERTIFICAT PILOT)*
+7. Motocicletă *(CERTIFICAT MOTO)*
 +++
 
 +++ [!badge variant="light" text="Medic Rezident"]
 1. Ambulanță
-2. Ford Bronco *(OFF-ROAD Sandy / Paleto)*
+2. Ford Bronco (OFF-ROAD Sandy / Paleto)
 3. Logan
-4. Elicopter *(CERTIFICAT PILOT)*
-5. Motocicletă *(CERTIFICAT MOTO)*
-6. Hyundai
+4. Duster
+5. Hyundai
+6. Elicopter *(CERTIFICAT PILOT)*
+7. Motocicletă *(CERTIFICAT MOTO)*
+8. Volvo
 +++ [!badge variant="light" text="Medic Primar"]
 1. Ambulanță
-2. Ford Bronco *(OFF-ROAD Sandy / Paleto)*
+2. Ford Bronco (OFF-ROAD Sandy / Paleto)
 3. Logan
-4. Elicopter *(CERTIFICAT PILOT)*
-5. Motocicletă *(CERTIFICAT MOTO)*
-6. Hyundai
+4. Duster
+5. Hyundai
+6. Elicopter *(CERTIFICAT PILOT)*
+7. Motocicletă *(CERTIFICAT MOTO)*
+8. Volvo
 +++ [!badge variant="light" text="Medic Specialist"]
 1. Ambulanță
-2. Ford Bronco *(OFF-ROAD Sandy / Paleto)*
+2. Ford Bronco (OFF-ROAD Sandy / Paleto)
 3. Logan
-4. Elicopter *(CERTIFICAT PILOT)*
-5. Motocicletă *(CERTIFICAT MOTO)*
-6. Hyundai
+4. Duster
+5. Hyundai
+6. Elicopter *(CERTIFICAT PILOT)*
+7. Motocicletă *(CERTIFICAT MOTO)*
+8. Volvo
 +++
 
 +++ [!badge variant="ghost" text="Șef de tură"]
 1. Ambulanță
-2. Ford Bronco *(OFF-ROAD Sandy / Paleto)*
+2. Ford Bronco (OFF-ROAD Sandy / Paleto)
 3. Logan
-4. Elicopter *(CERTIFICAT PILOT)*
-5. Motocicletă *(CERTIFICAT MOTO)*
-6. Hyundai
-7. Volvo XC90
+4. Duster
+5. Hyundai
+6. Elicopter *(CERTIFICAT PILOT)*
+7. Motocicletă *(CERTIFICAT MOTO)*
+8. Volvo
+9. Kia Sorento
 +++ [!badge variant="ghost" text="Manager / Director"]
 1. Ambulanță
-2. Ford Bronco *(OFF-ROAD Sandy / Paleto)*
+2. Ford Bronco (OFF-ROAD Sandy / Paleto)
 3. Logan
-4. Elicopter 
-5. Motocicletă 
-6. Hyundai
-7. Volvo XC90
-8. BMW Seria 3
+4. Duster
+5. Hyundai
+6. Elicopter *(CERTIFICAT PILOT)*
+7. Motocicletă *(CERTIFICAT MOTO)*
+8. Volvo
+9. Kia Sorento
+10. BMW Seria 3
 +++
 
 ## Detalii autospeciale
@@ -103,18 +116,39 @@ Poate fi folosită doar pe Sandy / Paleto
 Poate fi condusă și de debutanți după ora 19:00 pentru apeluri și bkuri, pe timpul zilei doar cu aprobare (pe distanțe foarte mari).
 !!!
 
+### Duster
+<img src="/docs/echipament/img/duster.png" alt="ambulanta" width="308" height="164"/> </br>
+
+!!!
+**Duster | Asistent Generalist+ | SAJ**
+!!!
+
 ### Hyundai
 <img src="/docs/echipament/img/hyundai.png" alt="ambulanta" width="308" height="164"/> </br>
 
 !!!
-**Hyundai | Medic Rezident+ | SAJ**
+**Hyundai | Asistent Șef+ | SAJ**
+!!!
+
+### Ford Ranger
+<img src="/docs/echipament/img/ranger.png" alt="ambulanta" width="308" height="164"/> </br>
+
+!!!
+**Ford Ranger | Asistent Șef+ | SAJ**
 !!!
 
 ### Volvo
 <img src="/docs/echipament/img/volvo.png" alt="ambulanta" width="308" height="164"/> </br>
 
 !!!
-**Volvo XC90 | Sef de Tură+ | SAJ**
+**Volvo XC90 | Medic Rezident+ | SAJ**
+!!!
+
+### Kia Sorento
+<img src="/docs/echipament/img/kia.png" alt="ambulanta" width="308" height="164"/> </br>
+
+!!!
+**Kia Sorento | Șef de tură+ | SAJ**
 !!!
 
 ### BMW
