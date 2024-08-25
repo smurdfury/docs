@@ -24,4 +24,4 @@ jobs:
           update-branch: true
       
       - name: Build with Retype
-        run: retype start --password zotanebunulcuvacile
+        run: retype start --password SMURD_Conducere250824
