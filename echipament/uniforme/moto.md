@@ -20,7 +20,7 @@ Pe această pagină se află uniformele pentru persoanele care dețin certificat
 - Pantaloni: 262 (Textura: 1)
 - Încălțăminte: 24 (Textura: 0)
 <p align="center">
-    <img src="/docs/imagini/uniforme/isu/moto/baieti.png" style="border-radius: 20px;" width="303" height="385" alt="Departamentul Medical">
+    <img src="/docs/imagini/uniforme/moto/baieti.png" style="border-radius: 20px;" width="303" height="385" alt="Departamentul Medical">
 </p>
 
 ==- Fete
@@ -31,6 +31,6 @@ Pe această pagină se află uniformele pentru persoanele care dețin certificat
 - Pantaloni: 191 (Textura: 0)
 - Încălțăminte: 24 (Textura: 0)
 <p align="center">
-    <img src="/docs/imagini/uniforme/isu/moto/fete.png" style="border-radius: 20px;" width="303" height="385" alt="Departamentul Medical">
+    <img src="/docs/imagini/uniforme/moto/fete.png" style="border-radius: 20px;" width="303" height="385" alt="Departamentul Medical">
 </p>
 ===
