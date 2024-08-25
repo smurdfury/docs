@@ -53,7 +53,7 @@ Neglijarea respectării regulilor din cadrul acțiunilor atrage automat sancțiu
 - [x] Unitățile disponibile se vor deplasa la caz. Va fii ales un negociator dintre cei prezenți, cel mai mare în grad stabilește. La o distanță conformă faceți o bariera ca alte persoane să nu se poată apropia, iar negociatorul v-a sta mai aproape de el pentru a exista o mai bună comunicare.
 
 !!!danger
-Căpitanul echipei de intervenție este responsabil de fiecare proces verbal și de intervenția promtă a echipei sale într-o intervenție.
+Căpitanul echipei de intervenție este responsabil de fiecare proces verbal și de intervenția promptă a echipei sale într-o intervenție.
 !!!
 !!!danger
 Dacă toți membrii au refuzat să întocmească raportul, vor fi sancționați.
