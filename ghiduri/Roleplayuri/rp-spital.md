@@ -1,6 +1,6 @@
 ---
 label: RP Spital
-order: v1.5
+order: v1.4
 ---
 
 <p align="center">
@@ -123,6 +123,137 @@ Dacă arsura este direct pe piele
 !!!
 Se recomandă medicamentele aferente pentru arsuri
 !!!
+
+### Roleplay dureri de spate
+- /me examineaza pacientul
+- /me scoate din dulap un corset medicinal pentru spate
+- /me trage corsetul peste toata cutia toracica a pacientului
+- /me fixeaza corsetul
+- /me strange corsetul
+- /me administreaza medicamente aferente pentru durerea de spate
+!!!
+După îl duci la RMN și de preferat e să spui că nu prezintă complicații
+!!!
+!!!
+Îi recomanzi alte medicamente aferente pentru durerea de spate
+!!!
+
+### Roleplay de RMN
+!!!warning
+RMN = Câmp electromagnetic care provoacă 0 radiații, prin intermediul RMN-ului se pot vedea fracturi de oase, organe afectate, țesuturi, măduva spinării, fractură de coloană, etc.
+!!!
+!!!danger
+Contraindicații = Implanturi metalice, glonț, schije sau alte fragmente metalice, cardiostimulator, proteză auditivă
+!!!
+!!!
+Îl duci în camera de RMN și îl rogi să lase toate hainele și lucrurile metalice în dulapz
+!!!
+- /me il ajuta sa se aseze pe masa
+- /me ia niste dopuri din dulap si i le da
+!!!
+Îi transmiți pacientului să stea nemișcat
+!!!
+- /me porneste scanarea RMN
+!!!
+Te duci în camera alăturată
+!!!
+- /me se uita pe monitor la zona afectata
+- /me scoate rezultatele pe CD
+!!!
+Te duci cu /e clipboard la pacient și îi spui ce ai observat
+!!!
+
+### Roleplay de XRAY
+!!!warning
+XRAY = Radiografie cu raze X, care provoacă doar 2-3 radiații și poți observa doar fracturi de oase, coloana, membre, etc.
+!!!
+!!!danger
+Contraindicații fermeilor însărcinate deoarece poate afecta fătul.
+!!!
+!!!
+Duci pacientul în camera de XRAY și îl orgi să lase toate hainele și lucrurile metalice în dulap
+!!!
+- /me il ajuta sa se aseze pe masa
+- /me ia din dulap un sort de protectie si o pune peste pacient
+- /me trage aparatul peste persoana respectiva
+- /me porneste aparatul cu raze x
+- /me porneste monitoarele si apoi incepe scanarile cu raze x
+- /me scaneaza cu aparatul de raze x peste zona afectata a persoanei facand fotografii fracturilor
+- /me imprima pozele de la aparatul cu raze X
+
+### Roleplay de Computer Tomograf (CT)
+!!!warning
+CT = Scanare în care se printează rezultatele 3D în 2 minute, deși provoacă 50 de radiații și se folosește doar în cazuri extreme
+!!!
+!!!danger
+Contraindicații = astm, boli cronice, claustrofobie, sarcină
+!!!
+!!!
+Duci pacientul în camera de RMN
+!!!
+- /me il ajuta sa se aseze pe masa
+- /me ia mana pacientului si punctioneaza vena
+- /me ia o branula din dulap
+- /me introduce acul branulei in vena pacientului
+- /me ia un plasture steril din dulap
+- /me ataseaza plasturele steril pe branula
+- /me ia din sertar substanta de contrast cu iod
+- /me introduce substanta in branula
+- /me administreaza substanta de contrast pacientului
+- /me porneste aparatul
+- /me scaneaza partea afectata
+- /me face mai multe fotografii pentru a reconstrui imaginea 3D
+- /me opreste aparatul
+- /me printeaza rezultatele
+!!!
+Te duci cu /e clipboard și îi citești rezultatele
+!!!
+
+### Roleplay montare Ghips
+- /me il ajuta sa se aseze pe pat
+- /me il ajuta sa se dezbrace de hainele care acopera zona afectata
+!!!
+Te duci la o masă metalică
+!!!
+- /me ia din sertar tifon, un bol, manusi, foarfeca si o cutie cu ghips
+- /me ia foarfeca si taie tifonul in bucati mici
+- /me pune bucatile de tifon intr un bol, apoi se toarna substanta de ghips
+- /me amesteca
+- /me pune ghipsul format intr o soseta de turnare
+!!!
+Te duci la pacient cu bolul
+!!!
+- /me ajuta pacientul sa se aseze in pozitia corecta, pe spate
+- /me isi pune manusile
+- /me ia foarfecul si taie obiectul vestimentar
+- /me apuca soseta de turnare
+- /me apuca banda rosie de turnare
+- /me ii aplica soseta de turnare incet pe partea afectata
+- /me apuca banda rosie de turnare si ii leaga partea afectata
+- /me ridica partea afectata si aplica ghipsul
+!!!
+Aștepți 5 minute să i se usuce ghipsul și îi recomanzi să vină la control în 4 săptămâni pentru a-i da jos ghipsul
+!!!
+
+### Roleplay îndepărtare Ghips
+- /me il ajuta sa se aseze pe pat
+- /me ajuta pacientul sa se aseze in pozitia corecta, pe spate
+- /me ia din sertar un foarfec pentru ghips
+- /me apuca foarfecul si taie cu grija ghipsul
+- /me indeparteaza partea ghipsata
+- /me ia o solutie de curatare si curata membrul de ghips
+!!!
+Îi recomanzi kinetoterapie 4 săptămâni și lioton gel
+!!!
+
+### Roleplay Atelă Ghipsată
+- /me examineaza pacientul
+- /me constata ca are o fractura la picior/mana
+- /me ia o atela ghipsata
+- /me monteaza atela ghipsata pe membrul fracturat
+- /me fixeaza atela ghipsata
+- /me strange atela ghipsata 
+
 
 
 
